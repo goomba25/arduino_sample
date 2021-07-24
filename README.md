@@ -7,3 +7,4 @@
 * PWM_LED - PWM으로 13번 LED 제어 (UNO, PWM pin)
 * Servo - 서보 모터 제어 (서보 모터 라이브러리, 모터, UNO)
 * HC-SR04 - 초음파 센서 데이터 읽기 (HC-SR04, UNO, Serial 통신)
+* millis - 시간마다 LED 제어 (UNO, millis)
